@@ -115,7 +115,7 @@ const Hero = () => {
               <div className="h-[24px] w-[66px] mt-2 flex items-center justify-center rounded-md border-[1px] px-[4px] py-[6px] gap-1 bg-[#FFFFFF] border-[#D0D5DD] ">
                 <img
                   className="w-[16px] h-[16px] rounded-md object-center"
-                  src="../public/Figma.png"
+                  src="/Figma.png"
                   alt="Figma"
                 />
                 <span className="w-[34px] h-16px] font-sans font-medium text-[12px] leading-[16px] items-center">
@@ -125,7 +125,7 @@ const Hero = () => {
               <div className="h-[24px] w-[126px] mt-1 flex items-center justify-center rounded-md border-[1px] px-[4px] py-[6px] gap-1 bg-[#FFFFFF] border-[#D0D5DD] ">
                 <img
                   className="w-[16px] h-[16px] rounded-md object-center"
-                  src="../public/Adobe_illustrators.png"
+                  src="/Adobe_illustrators.png"
                   alt="Adobe_Illustrator"
                 />
                 <span className="w-[96px] h-[16px] font-sans font-medium text-[12px] leading-[16px] items-center">
@@ -135,7 +135,7 @@ const Hero = () => {
               <div className="h-[24px] w-[88px] mt-1 flex items-center justify-center rounded-md border-[1px] px-[4px] py-[6px] gap-1 bg-[#FFFFFF] border-[#D0D5DD] ">
                 <img
                   className="w-[16px] h-[16px] rounded-md object-center"
-                  src="../public/AdobeXD.png"
+                  src="/AdobeXD.png"
                   alt="AdobeXD"
                 />
                 <span className="w-[56px] h-16px] font-sans font-medium text-[12px] leading-[16px] items-center">
